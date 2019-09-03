@@ -124,7 +124,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #3be637;
+  color: #34ab31;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -132,7 +132,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #3be637;
+  color: #34ab31;
 }
 
 #mainNav .navbar-toggler {
@@ -157,11 +157,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #3be637;
+    background: #34ab31;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #3be637;
+    background: #34ab31;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -345,7 +345,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #3be637;
+  color: #34ab31;
 }
 
 a:focus, a:hover, a:active {
@@ -369,7 +369,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #3be637 !important;
+  color: #34ab31 !important;
 }
 
 .text-secondary {
@@ -377,13 +377,13 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #3be637;
-  border-color: #3be637;
+  background-color: #34ab31;
+  border-color: #34ab31;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background-color: #16b756;
-  border-color: #3be637;
+  border-color: #34ab31;
 }
 
 .btn-secondary {
