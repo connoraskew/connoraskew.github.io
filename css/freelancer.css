@@ -341,7 +341,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #2b4e2b;
 }
 
 a {
@@ -365,7 +365,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-tertiary {
-  background-color: #1a252f !important;
+  background-color: #2b4e2b !important;
 }
 
 .text-primary {
@@ -392,8 +392,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #1a252f;
-  border-color: #1a252f;
+  background-color: #2b4e2b;
+  border-color: #2b4e2b;
 }
 
 .video-container {
