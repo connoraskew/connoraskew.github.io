@@ -53,11 +53,11 @@ hr.star-light:after {
 }
 
 hr.star-dark {
-  border-color: #05440d;
+  border-color: #2b4e2b;
 }
 
 hr.star-dark:after {
-  color: #05440d;
+  color: #2b4e2b;
   background-color: rgba(0,0,0,0);
 }
 
@@ -124,7 +124,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #378FE6;
+  color: #3be637;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -132,7 +132,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #378FE6;
+  color: #3be637;
 }
 
 #mainNav .navbar-toggler {
@@ -157,11 +157,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #378FE6;
+    background: #3be637;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #378FE6;
+    background: #3be637;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -218,7 +218,7 @@ header.masthead h2 {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(55, 140, 230, 0.9);
+  background-color: rgba(55, 230, 140, 0.9);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -331,7 +331,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #05440d;
+  background-color: #2b4e2b;
   color: #fff;
 }
 
@@ -345,11 +345,11 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #378FE6;
+  color: #3be637;
 }
 
 a:focus, a:hover, a:active {
-  color: #1653b7;
+  color: #16b756;
 }
 
 .btn {
@@ -361,7 +361,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-secondary {
-  background-color: #05440d !important;
+  background-color: #2b4e2b !important;
 }
 
 .bg-tertiary {
@@ -369,7 +369,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #378FE6 !important;
+  color: #3be637 !important;
 }
 
 .text-secondary {
@@ -377,18 +377,18 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #378FE6;
-  border-color: #378FE6;
+  background-color: #3be637;
+  border-color: #3be637;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #1653b7;
-  border-color: #378FE6;
+  background-color: #16b756;
+  border-color: #3be637;
 }
 
 .btn-secondary {
-  background-color: #05440d;
-  border-color: #05440d;
+  background-color: #2b4e2b;
+  border-color: #2b4e2b;
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
